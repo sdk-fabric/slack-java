@@ -1,7 +1,7 @@
 {
   "type": "client-java",
   "require": {
-    "sdkfabric/twilio": {
+    "sdkfabric/slack": {
       "target": "./src/main/java/org/sdkfabric/slack",
       "namespace": "org.sdkfabric.slack"
     }
