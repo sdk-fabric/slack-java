@@ -1,0 +1,9 @@
+{
+  "name": "Slack",
+  "description": "Slack Java SDK managed by SDK Fabric",
+  "website": "https://sdk-fabric.org",
+  "namespace": "org.sdkfabric.slack",
+  "namespace_path": "org/sdkfabric/slack",
+  "group_id": "org.sdk-fabric",
+  "artifact_id": "slack"
+}
